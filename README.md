@@ -7,3 +7,8 @@ My favorite Visual Studio tools and extensions
 ### SQL
 
 - [ApexSQL Complete](https://www.apexsql.com/sql-tools-complete.aspx)
+
+## Paid
+
+- [ReSharper](https://www.jetbrains.com/resharper/)
+
