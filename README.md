@@ -1,6 +1,6 @@
 # visual-studio-favorites
-My favorite Visual Studio tools and extensions
 
+My favorite Visual Studio tools and extensions for Visual Studio 2017.
 
 ## Free
 
@@ -21,3 +21,6 @@ My favorite Visual Studio tools and extensions
 
 - [ReSharper](https://www.jetbrains.com/resharper/) - ReSharper provides on-the-fly code analysis and eliminates errors in C#, VB.NET, XAML, ASP.NET, and XML.
 
+
+## Older Visual Studio extensions list
+- [Visual Studio 2010](VS2010.md)
