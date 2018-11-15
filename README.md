@@ -6,7 +6,7 @@ My favorite Visual Studio tools and extensions for Visual Studio 2017.
 
 - [CodeMaid](https://marketplace.visualstudio.com/items?itemName=SteveCadwallader.CodeMaid) - CodeMaid is an open source Visual Studio extension to cleanup and simplify our C#, C++, F#, VB, PHP, PowerShell, R, JSON, XAML, XML, ASP, HTML, CSS, LESS, SCSS, JavaScript and TypeScript coding.
 - [Roslynator](https://github.com/JosefPihrt/Roslynator) - A collection of 500+ analyzers, refactorings and fixes for C#, powered by Roslyn.
-- []() - 
+- [Command Task Runner](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.CommandTaskRunner) - Adds support for command line batch files in Visual Studio 2015's Task Runner Explorer. Supports .cmd, .bat, .ps1 and .psm1 files.
 
 
 ### Collections
