@@ -6,6 +6,7 @@ My favorite Visual Studio tools and extensions for Visual Studio 2017.
 
 - [CodeMaid](https://marketplace.visualstudio.com/items?itemName=SteveCadwallader.CodeMaid) - CodeMaid is an open source Visual Studio extension to cleanup and simplify our C#, C++, F#, VB, PHP, PowerShell, R, JSON, XAML, XML, ASP, HTML, CSS, LESS, SCSS, JavaScript and TypeScript coding.
 - [Roslynator](https://github.com/JosefPihrt/Roslynator) - A collection of 500+ analyzers, refactorings and fixes for C#, powered by Roslyn.
+- []() - 
 
 
 ### Collections
@@ -16,6 +17,7 @@ My favorite Visual Studio tools and extensions for Visual Studio 2017.
 ### SQL
 
 - [ApexSQL Complete](https://www.apexsql.com/sql-tools-complete.aspx) - Integrate SQL code complete, snippets and more into SSMS and Visual Studio for Free
+- [ApexSQL Refactor](https://www.apexsql.com/sql-tools-refactor.aspx) - Seamlessly integrate a SQL query formatter directly into SSMS and Visual Studio for free
 
 ## Paid
 
