@@ -5,6 +5,13 @@ My favorite Visual Studio tools and extensions
 ## Free
 
 - [CodeMaid](https://marketplace.visualstudio.com/items?itemName=SteveCadwallader.CodeMaid) - CodeMaid is an open source Visual Studio extension to cleanup and simplify our C#, C++, F#, VB, PHP, PowerShell, R, JSON, XAML, XML, ASP, HTML, CSS, LESS, SCSS, JavaScript and TypeScript coding.
+- [Roslynator](https://github.com/JosefPihrt/Roslynator) - A collection of 500+ analyzers, refactorings and fixes for C#, powered by Roslyn.
+
+
+### Collections
+
+- [Web Essentials 2017](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WebExtensionPack2017) - The easiest way to set up Visual Studio for the ultimate web development experience. Requires Visual Studio 2017 Update 8 or newer
+- [Productivity Power Tools 2017/2019](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.ProductivityPowerPack2017) - Installs the individual extensions of Productivity Power Tools 2017/2019
 
 ### SQL
 
