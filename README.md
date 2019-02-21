@@ -2,6 +2,12 @@
 
 My favorite Visual Studio tools and extensions for Visual Studio 2017.
 
+## Tools
+
+### [Extension Manager 2017](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ExtensionManager)
+Import/export extensions as well as associate extensions with individual solutions
+![Extension Manager 2017](https://raw.githubusercontent.com/madskristensen/ExtensionPackTools/master/art/menu_tools.png)
+
 ## Free
 
 - [Command Task Runner](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.CommandTaskRunner) - Adds support for command line batch files in Visual Studio 2015's Task Runner Explorer. Supports .cmd, .bat, .ps1 and .psm1 files.
