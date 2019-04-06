@@ -11,6 +11,28 @@ CodeMaid is an open source Visual Studio extension to cleanup and simplify our C
 Installs the individual extensions of Productivity Power Tools 2017/2019
 ![Productivity Power Tools 2017/2019](https://visualstudioplatformteam.gallerycdn.vsassets.io/extensions/visualstudioplatformteam/productivitypowerpack2017/16.0/1543238163603/250957/1/PPT-Installer.PNG)
 
+### [Web Essentials 2019](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WebEssentials2019)
+The easiest way to set up Visual Studio for the ultimate web development experience.
+
+After installing the Web Essentials and restarting Visual Studio, the following extensions will be installed:
+
+- Add New File
+- Browser Reload on Save
+- Browser Sync
+- Bundler & Minifier
+- Editor Enhancements
+- File Icons
+- File Nesting
+- Image Sprites
+- Image Optimizer
+- Markdown Editor
+- Open Command Line
+- Package Installer
+- Package Security Alerts
+- Web Accessibility Checker
+- Web Compiler
+- ZenCoding
+
 More is coming...
 
 ## Older Visual Studio extensions list
