@@ -11,6 +11,14 @@ CodeMaid is an open source Visual Studio extension to cleanup and simplify our C
 Installs the individual extensions of Productivity Power Tools 2017/2019
 ![Productivity Power Tools 2017/2019](https://visualstudioplatformteam.gallerycdn.vsassets.io/extensions/visualstudioplatformteam/productivitypowerpack2017/16.0/1543238163603/250957/1/PPT-Installer.PNG)
 
+### Visual Studio Spell Checker (VS2017 and Later)
+
+[![TSLint](https://vsmarketplacebadge.apphb.com/version-short/EWoodruff.VisualStudioSpellCheckerVS2017andLater.svg)](https://marketplace.visualstudio.com/items?itemName=EWoodruff.VisualStudioSpellCheckerVS2017andLater)
+[![TSLint](https://vsmarketplacebadge.apphb.com/installs-short/EWoodruff.VisualStudioSpellCheckerVS2017andLater.svg)](https://marketplace.visualstudio.com/items?itemName=EWoodruff.VisualStudioSpellCheckerVS2017andLater)
+[![TSLint](https://vsmarketplacebadge.apphb.com/rating-short/EWoodruff.VisualStudioSpellCheckerVS2017andLater.svg)](https://marketplace.visualstudio.com/items?itemName=EWoodruff.VisualStudioSpellCheckerVS2017andLater)
+
+[Visual Studio Spell Checker (VS2017 and Later)](https://marketplace.visualstudio.com/items?itemName=EWoodruff.VisualStudioSpellCheckerVS2017andLater) is an editor extension that checks the spelling of comments, strings, and plain text as you type or interactively with a tool window. It can also spell check an entire solution, project, or selected items. Options are available to define multiple languages to spell check agains...
+
 ### [Web Essentials 2019](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WebEssentials2019)
 The easiest way to set up Visual Studio for the ultimate web development experience.
 
