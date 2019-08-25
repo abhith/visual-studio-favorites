@@ -63,6 +63,14 @@ More is coming...
 
 ## Paid
 
+### NCrunch for Visual Studio
+
+[![NCrunch for Visual Studio](https://vsmarketplacebadge.apphb.com/version-short/NCrunch.NCrunchforVisualStudio.svg)](https://marketplace.visualstudio.com/items?itemName=NCrunch.NCrunchforVisualStudio)
+[![NCrunch for Visual Studio](https://vsmarketplacebadge.apphb.com/installs-short/NCrunch.NCrunchforVisualStudio.svg)](https://marketplace.visualstudio.com/items?itemName=NCrunch.NCrunchforVisualStudio)
+[![NCrunch for Visual Studio](https://vsmarketplacebadge.apphb.com/rating-short/NCrunch.NCrunchforVisualStudio.svg)](https://marketplace.visualstudio.com/items?itemName=NCrunch.NCrunchforVisualStudio)
+
+[NCrunch for Visual Studio](https://marketplace.visualstudio.com/items?itemName=NCrunch.NCrunchforVisualStudio) is Distributed continuous build and test runner. Persistent Inline Code Coverage, Performance Metrics. Navigation + more!
+
 ### ReSharper
 
 [![ReSharper](https://vsmarketplacebadge.apphb.com/version-short/JetBrains.ReSharper.svg)](https://marketplace.visualstudio.com/items?itemName=JetBrains.ReSharper)
