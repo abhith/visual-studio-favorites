@@ -71,6 +71,14 @@ More is coming...
 
 [NCrunch for Visual Studio](https://marketplace.visualstudio.com/items?itemName=NCrunch.NCrunchforVisualStudio) is Distributed continuous build and test runner. Persistent Inline Code Coverage, Performance Metrics. Navigation + more!
 
+### OzCode
+
+[![OzCode](https://vsmarketplacebadge.apphb.com/version-short/CodeValueLtd.OzCode.svg)](https://marketplace.visualstudio.com/items?itemName=CodeValueLtd.OzCode)
+[![OzCode](https://vsmarketplacebadge.apphb.com/installs-short/CodeValueLtd.OzCode.svg)](https://marketplace.visualstudio.com/items?itemName=CodeValueLtd.OzCode)
+[![OzCode](https://vsmarketplacebadge.apphb.com/rating-short/CodeValueLtd.OzCode.svg)](https://marketplace.visualstudio.com/items?itemName=CodeValueLtd.OzCode)
+
+[OzCode](https://marketplace.visualstudio.com/items?itemName=CodeValueLtd.OzCode) is a revolutionary debugging extension which complements Visual Studio and supercharges the C# debugging experience!.
+
 ### ReSharper
 
 [![ReSharper](https://vsmarketplacebadge.apphb.com/version-short/JetBrains.ReSharper.svg)](https://marketplace.visualstudio.com/items?itemName=JetBrains.ReSharper)
