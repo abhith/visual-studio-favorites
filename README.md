@@ -11,6 +11,16 @@ CodeMaid is an open source Visual Studio extension to cleanup and simplify our C
 Installs the individual extensions of Productivity Power Tools 2017/2019
 ![Productivity Power Tools 2017/2019](https://visualstudioplatformteam.gallerycdn.vsassets.io/extensions/visualstudioplatformteam/productivitypowerpack2017/16.0/1543238163603/250957/1/PPT-Installer.PNG)
 
+### Visual Studio IntelliCode
+
+[![TSLint](https://vsmarketplacebadge.apphb.com/version-short/VisualStudioExptTeam.VSIntelliCode.svg)](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.VSIntelliCode)
+[![TSLint](https://vsmarketplacebadge.apphb.com/installs-short/VisualStudioExptTeam.VSIntelliCode.svg)](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.VSIntelliCode)
+[![TSLint](https://vsmarketplacebadge.apphb.com/rating-short/VisualStudioExptTeam.VSIntelliCode.svg)](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.VSIntelliCode)
+
+[Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.VSIntelliCode)(IntelliCode) is a set of AI-assisted capabilities that improve developer productivity with features like contextual IntelliSense, argument completion, code formatting, and style rule inference.
+
+IntelliCode augments existing developer workflows with machine-learning services that provide an understanding of code and its context. It’s applicable for C#, C++ (in preview), JavaScript/TypeScript (in preview), and XAML code today, and will be updated in the future to support more languages.
+
 ### Visual Studio Spell Checker (VS2017 and Later)
 
 [![TSLint](https://vsmarketplacebadge.apphb.com/version-short/EWoodruff.VisualStudioSpellCheckerVS2017andLater.svg)](https://marketplace.visualstudio.com/items?itemName=EWoodruff.VisualStudioSpellCheckerVS2017andLater)
