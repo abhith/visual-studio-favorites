@@ -11,6 +11,14 @@ CodeMaid is an open source Visual Studio extension to cleanup and simplify our C
 Installs the individual extensions of Productivity Power Tools 2017/2019
 ![Productivity Power Tools 2017/2019](https://visualstudioplatformteam.gallerycdn.vsassets.io/extensions/visualstudioplatformteam/productivitypowerpack2017/16.0/1543238163603/250957/1/PPT-Installer.PNG)
 
+### Trailing Whitespace Visualizer
+
+[![TSLint](https://vsmarketplacebadge.apphb.com/version-short/MadsKristensen.TrailingWhitespaceVisualizer.svg)](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.TrailingWhitespaceVisualizer)
+[![TSLint](https://vsmarketplacebadge.apphb.com/installs-short/MadsKristensen.TrailingWhitespaceVisualizer.svg)](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.TrailingWhitespaceVisualizer)
+[![TSLint](https://vsmarketplacebadge.apphb.com/rating-short/MadsKristensen.TrailingWhitespaceVisualizer.svg)](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.TrailingWhitespaceVisualizer)
+
+[Trailing Whitespace Visualizer](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.TrailingWhitespaceVisualizer) keeps your code files clean by making it easier than ever to identify and remove any trailing whitespace.
+
 ### Visual Studio IntelliCode
 
 [![TSLint](https://vsmarketplacebadge.apphb.com/version-short/VisualStudioExptTeam.VSIntelliCode.svg)](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.VSIntelliCode)
