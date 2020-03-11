@@ -4,6 +4,14 @@ My favorite Visual Studio tools and extensions for Visual Studio 2019.
 
 ## Free Tools
 
+### BuildVision
+
+[![BuildVision](https://vsmarketplacebadge.apphb.com/version-short/stefankert.BuildVision.svg)](https://marketplace.visualstudio.com/items?itemName=stefankert.BuildVision)
+[![BuildVision](https://vsmarketplacebadge.apphb.com/installs-short/stefankert.BuildVision.svg)](https://marketplace.visualstudio.com/items?itemName=stefankert.BuildVision)
+[![BuildVision](https://vsmarketplacebadge.apphb.com/rating-short/stefankert.BuildVision.svg)](https://marketplace.visualstudio.com/items?itemName=stefankert.BuildVision)
+
+[BuildVision](https://marketplace.visualstudio.com/items?itemName=stefankert.BuildVision) visualize the building process
+
 ### [CodeMaid](https://marketplace.visualstudio.com/items?itemName=SteveCadwallader.CodeMaid)
 CodeMaid is an open source Visual Studio extension to cleanup and simplify our C#, C++, F#, VB, PHP, PowerShell, R, JSON, XAML, XML, ASP, HTML, CSS, LESS, SCSS, JavaScript and TypeScript coding.
 
